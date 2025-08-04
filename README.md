@@ -5,13 +5,7 @@ This project showcases my skills, experience, and passion for front-end developm
 
 ## 🚀 Live Demo
 
-👉 [Coming Soon or Add your Vercel/Netlify link here]
-
----
-
-## 📸 Preview
-
-![Portfolio Screenshot](./public/img/preview.jpg) <!-- Replace with actual screenshot if needed -->
+👉 [https://portfolio-dd5z.vercel.app/]
 
 ---
 
